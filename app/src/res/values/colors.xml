@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Premium Dark Palette -->
+    <color name="bg_dark">#0F0F0F</color>
+    <color name="surface_dark">#1A1A1A</color>
+    <color name="primary_enterprise">#818CF8</color> <!-- Modern Indigo -->
+    <color name="secondary_enterprise">#C084FC</color> <!-- Soft Purple -->
+    <color name="accent_gold">#FACC15</color>
+    <color name="text_high">#F8FAFC</color>
+    <color name="text_med">#94A3B8</color>
+    <color name="error_red">#EF4444</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

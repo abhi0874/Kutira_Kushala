@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Kutira Kushala</string>
+
+    <!-- Dashboard -->
+    <string name="enterprise_portal">Enterprise Portal</string>
+    <string name="auth_session">Authenticated Session</string>
+    <string name="sys_admin">System Administrator</string>
+    <string name="ops_console">Operations Console</string>
+    <string name="active_tasks">Inventory Items</string>
+    <string name="valuation">Net Valuation</string>
+    <string name="recent_ledger">Recent Ledger Activity</string>
+    <string name="db_sync_ok">Database Integrity Verified</string>
+    <string name="db_sync_desc">Cloud database up to date</string>
+    <string name="analytics_ok">Analytics Protocol Executed</string>
+    <string name="analytics_desc">Monthly performance metrics updated</string>
+    <string name="search_hint">Search artisan, products&#8230;</string>
+    <string name="inventory_velocity">Product Inventory Velocity</string>
+
+    <!-- Modules -->
+    <string name="artisans_title">Artisan Directory</string>
+    <string name="artisans">Artisans</string>
+    <string name="community_mgmt">Community Management</string>
+    <string name="community_desc">Managing registered partners and specializations</string>
+    <string name="search_partner">Filter by name or cluster&#8230;</string>
+    <string name="all_clusters">All Clusters</string>
+    <string name="no_partners">No registered partners found in this cluster</string>
+
+    <string name="buyers_title">Strategic Partners</string>
+    <string name="buyers">Buyers</string>
+    <string name="buyers_desc">Global buyer organizations and procurement entities</string>
+    <string name="search_buyer">Filter by entity name&#8230;</string>
+    <string name="no_buyers">No procurement partners currently registered</string>
+
+    <string name="products_title">Enterprise Catalog</string>
+    <string name="products">Products</string>
+    <string name="catalog_desc">Monitor performance of the premium collection</string>
+    <string name="search_product">Search product SKU or name&#8230;</string>
+    <string name="no_products">Catalog is currently being updated</string>
+
+    <!-- Inventory -->
+    <string name="inventory_title">Inventory Control</string>
+    <string name="inventory">Inventory</string>
+    <string name="stock_management">Stock Management</string>
+    <string name="stock_mgmt">Stock Management</string>
+    <string name="inventory_description">Record new product acquisitions for the enterprise</string>
+    <string name="stock_desc">Record new product acquisitions for the enterprise</string>
+    <string name="update_inventory">Update Inventory</string>
+    <string name="update_stock">Update Inventory</string>
+    <string name="system_ready">System Ready</string>
+    <string name="sys_ready">System Ready</string>
+    <string name="export_csv">Export Current Stock (CSV)</string>
+    <string name="syncing_cloud">Initiating cloud synchronization&#8230;</string>
+    <string name="sync_success">Stock record verified and synced</string>
+    <string name="sync_error">Protocol failure: %s</string>
+    <string name="exporting_manifest">Exporting stock manifest&#8230;</string>
+
+    <!-- Errors -->
+    <string name="error_field_mandatory">This parameter is mandatory</string>
+    <string name="error_invalid_input">Invalid data format detected</string>
+
+    <!-- Authentication -->
+    <string name="login_title">Login</string>
+    <string name="login_header">Enterprise Authentication</string>
+    <string name="login_desc">Secure access to management infrastructure</string>
+    <string name="authenticate">AUTHENTICATE</string>
+    <string name="request_access">Request New Account Access</string>
+    <string name="enrollment_title">Account Enrollment</string>
+    <string name="join_network">Join the Network</string>
+    <string name="enroll_desc">Create your credentials to access the dashboard.</string>
+    <string name="secure_notice">Your data is encrypted and handled securely.</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="auth_failure">Authentication Failure: %s</string>
+    <string name="creds_required">Valid credentials required</string>
+
+    <!-- Profile -->
+    <string name="account_settings">Account Settings</string>
+    <string name="security_prefs">Security &amp; Preferences</string>
+    <string name="security_notice">Profile Security</string>
+    <string name="update_creds">Update Security Credentials</string>
+    <string name="app_prefs">App Preferences</string>
+    <string name="account_actions">Account Actions</string>
+    <string name="support">Enterprise Support</string>
+    <string name="sign_out">Terminate Current Session</string>
+    <string name="sign_out_confirm">Are you sure you want to end your session? You will need to re-authenticate.</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="version_info">Kutira Kushala v1.2.0\nEnterprise Management Solution</string>
+</resources>

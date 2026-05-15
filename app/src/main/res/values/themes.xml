@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.KutiraKushala" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_gold</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSecondary">@color/secondary_slate</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="colorSurface">@color/surface_dark</item>
+        <item name="colorOnSurface">@color/text_high_emphasis</item>
+        <item name="colorOnSurfaceVariant">@color/text_medium_emphasis</item>
+
+        <!-- Professional Font - using sans-serif-condensed for an enterprise feel -->
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+
+    <style name="Theme.KutiraKushala" parent="Base.Theme.KutiraKushala" />
+</resources>

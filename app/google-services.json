@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "369886273078",
+    "project_id": "kutirakushala-edc14",
+    "storage_bucket": "kutirakushala-edc14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369886273078:android:2ad9ba060239a66a214297",
+        "android_client_info": {
+          "package_name": "com.mindmatrix.kutirakushala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369886273078-v88gg9albu5nbacsvcb8q1dmqa3c2e1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mindmatrix.kutirakushala",
+            "certificate_hash": "a01a4078d71b6a70a8bc203ffa92ff734673aade"
+          }
+        },
+        {
+          "client_id": "369886273078-0ohrjumn8hetplltu562uh6vt2t82n9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKe4J1Nxd-yyiy4ZaMWDwkl5mEYXckF-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369886273078-0ohrjumn8hetplltu562uh6vt2t82n9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
